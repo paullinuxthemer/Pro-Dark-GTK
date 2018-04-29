@@ -3,7 +3,7 @@ a GTK2,and GTK3 file for the Gnome-desktop
 
 ![s](https://cn.pling.com/img/d/5/1/3/b525d04353d8770f0e9ef12a4bcc15fd6064.png)
 
-Made by ## paulxfce
+## author:  paulxfce
 
 A clear and easy-on-the-eyes theme that is meant for those who use the Gnome-desktop professionally on a daily basis. The focus in this theme is compatibility: GTK-2 applications and GTK-3 applications look virtually the same. Libre-office, Scribus, Evolution, Geary, Planner, GnuCash, LaTeXila, Geany, the Gimp, Inkscape,...
 
