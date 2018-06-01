@@ -1654,7 +1654,7 @@ button:hover {
 
 button:active{
 
-  color: #ffffff;
+  color: #202020;
   text-shadow:  0 -1px alpha(#ffffff, 0.04),
 				 -1px  0px alpha(#202020, 0.05),
 				  1px  0px alpha(#202020, 0.05),
