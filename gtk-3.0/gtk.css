@@ -8243,15 +8243,17 @@ notebook > header > tabs > tab:checked {
   border-color:rgba(105, 105, 105, 0.3); }
 
 notebook > header > tabs > tab button.flat{
-
-  min-height: 22px;
+	
+  border-color: transparent;
+  min-height: 16px;
   min-width: 16px;
   padding: 0;
   color: #6e6e6e; }
 
 notebook > header > tabs > tab button.sidebar-button {
-
-  min-height: 22px;
+	
+  border-color: transparent;
+  min-height: 16px;
   min-width: 16px;
   padding: 0;
   color: #6e6e6e; }
