@@ -14,7 +14,7 @@
    style="enable-background:new"
    id="svg8"
    sodipodi:docname="titlebutton-minimize-backdrop@2.svg"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    viewBox="0 0 28 28">
   <metadata
      id="metadata14">
@@ -88,7 +88,7 @@
        x2="7.6657691"
        y2="1042.2922"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.9175602,0,0,4.505194,-16.545666,-4677.6377)" />
+       gradientTransform="matrix(3.9175602,0,0,4.505194,-16.545667,-4677.6377)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -99,15 +99,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="956"
+     inkscape:window-width="1865"
+     inkscape:window-height="1024"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="13.828125"
-     inkscape:cx="14.715906"
-     inkscape:cy="7.1186444"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="-26.179009"
+     inkscape:cy="6.8293788"
+     inkscape:window-x="1421"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      scale-x="1"
@@ -117,7 +117,7 @@
        id="grid4498" />
   </sodipodi:namedview>
   <rect
-     style="opacity:0.2;fill:url(#linearGradient4152);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+     style="opacity:0.779;fill:url(#linearGradient4152);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
      id="rect3336"
      width="17.066"
      height="4.2665"

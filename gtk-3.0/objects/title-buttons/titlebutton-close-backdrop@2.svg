@@ -14,7 +14,7 @@
    style="enable-background:new"
    id="svg8"
    sodipodi:docname="titlebutton-close-backdrop@2.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,36 +99,32 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="956"
+     inkscape:window-width="1149"
+     inkscape:window-height="760"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="19.555922"
-     inkscape:cx="0.34159164"
-     inkscape:cy="17.048807"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:cx="18.795458"
+     inkscape:cy="10.729464"
+     inkscape:window-x="2113"
+     inkscape:window-y="285"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg8"
      showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid4498" />
   </sodipodi:namedview>
-  <g
-     id="g4498"
-     transform="scale(2)">
-    <circle
-       r="7.9984131"
-       transform="rotate(-27.995141)"
-       cy="10.819073"
-       cx="3.3087258"
-       id="path4488"
-       style="opacity:1;fill:#d3000a;fill-opacity:0.49519234;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.85500004;fill:#ffffff;fill-opacity:0.88461537;fill-rule:evenodd;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       id="path2386-9"
-       d="m 7.981862,6.465033 2.698472,-2.726366 1.6,1.6 -2.771803,2.653035 2.771803,2.680298 -1.6,1.6 L 8.000036,9.500197 5.347,12.272 3.747,10.672 6.505173,8.005333 3.747,5.338667 l 1.6,-1.6 z" />
-  </g>
+  <circle
+     style="opacity:1;fill:#656873;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4488"
+     cx="6.6174517"
+     cy="21.638145"
+     transform="rotate(-27.995141)"
+     r="15.996826" />
+  <path
+     d="m 15.963724,12.930066 5.396944,-5.452732 3.2,3.2 -5.543606,5.30607 5.543606,5.360596 -3.2,3.2 L 16.000072,19.000394 10.694,24.544 l -3.2,-3.2 5.516346,-5.333334 -5.516346,-5.333332 3.2,-3.2 z"
+     id="path2386-9"
+     style="opacity:0.85500004;fill:#f2f2f2;fill-opacity:0.63137257;fill-rule:evenodd;stroke:none;stroke-width:2.13333344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+     inkscape:connector-curvature="0" />
 </svg>

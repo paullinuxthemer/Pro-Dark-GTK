@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="18"
+   height="18"
    version="1.1"
    style="enable-background:new"
    id="svg8"
    sodipodi:docname="titlebutton-minimize-hover.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -98,7 +98,7 @@
        x2="7.6657691"
        y2="1042.2922"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9588567,0,0,2.2526851,-7.2067641,-2337.9606)" />
+       gradientTransform="matrix(1.9588567,0,0,2.2526851,-6.2067644,-2336.9606)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -109,15 +109,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="956"
+     inkscape:window-width="1865"
+     inkscape:window-height="1024"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="19.555922"
-     inkscape:cx="-10.998596"
+     inkscape:cx="-13.85702"
      inkscape:cy="6.6971536"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-x="1421"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      showguides="true">
@@ -126,10 +126,10 @@
        id="grid4498" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      id="path4488"
-     cx="3.3087258"
-     cy="10.819073"
+     cx="3.7223163"
+     cy="12.171456"
      transform="rotate(-27.995141)"
      r="7.9984131" />
   <rect
@@ -137,6 +137,6 @@
      id="rect3336"
      width="8.5333338"
      height="2.1333334"
-     x="3.8"
-     y="6.8666668" />
+     x="4.7999997"
+     y="7.8666673" />
 </svg>
