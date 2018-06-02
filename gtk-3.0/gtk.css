@@ -7453,7 +7453,7 @@ notebook.frame > header.left, notebook.frame > header.right {
 
 notebook > stack:not(:only-child) {
 
-  background-color: #eaeff3; }
+  background-color: #ffffff; }/*#eaeff3*/
 
 notebook > header {
 
@@ -7650,7 +7650,7 @@ notebook > header > tabs > tab:hover:not(:checked) {
 notebook > header > tabs > tab:checked {
 
   color: #202020;
-  background-color: #eaeff3;
+  background-color: #ffffff;
   border-color:rgba(105, 105, 105, 0.3); }
 
 notebook > header > tabs > tab button.flat{
@@ -12162,11 +12162,11 @@ headerbar button.titlebutton.restore:active,
 
 .nautilus-window notebook{
 
-  background-color: #eaeff3; }
+  background-color: #ffffff; }
 
 .nautilus-window notebook > stack:not(:only-child) searchbar {
 
-  background-color: #eaeff3; }
+  background-color: #ffffff; }
  
 /**********NAUTILUS MISSELANEOUS *****************/
 
